@@ -1,4 +1,4 @@
-# Projeto_3_TripleTen
+# Projeto 3 TripleTen
 Projeto 3 Bootcamp Análise de Dados
 
 # Descrição do projeto:
