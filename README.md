@@ -4,7 +4,8 @@ Projeto 3 Bootcamp Análise de Dados
 # Descrição do projeto:
 ## Introdução
 
-A Instacart é uma plataforma de entrega de supermercado onde os clientes podem fazer um pedido de supermercado e receber a compra em casa, semelhante ao funcionamento do Uber Eats e do iFood. 
+A Instacart é uma plataforma de entrega de supermercado onde os clientes podem fazer um pedido de supermercado e receber a compra em casa, semelhante ao funcionamento do Uber Eats e do iFood. Sua missão é limpar os dados e preparar um relatório que forneça informações sobre os hábitos de compra dos clientes da Instacart.
+Esse conjunto de dados específico foi lançado publicamente pela Instacart em 2017 para uma competição Kaggle.
 
 (Conjunto de dados modificado a partir do original).
 
