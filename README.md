@@ -50,3 +50,7 @@ Abaixo está um dicionário que lista as colunas de cada tabela e descreve os da
 -	`departments.csv`
     -	`'department_id'`: é o número de identificação unívoco de cada categoria de departamento do supermercado
     -	`'department'`: é o nome do departamento
+
+
+# Contato
+E-mail: alessandrapassisfonseca@gmail.com
